@@ -48,8 +48,7 @@
 ## 📈 Actualment estic aprenent
 📌 Xarxes avançades  
 📌 Seguretat en sistemes  
-📌 Desenvolupament web  
-📌 Automatització amb Python  
+📌 Desenvolupament web   
 
 ---
 
@@ -59,7 +58,6 @@
 ---
 
 ## ⚡ Dades curioses
-🎬 M’agrada el cinema i la tecnologia  
 🧠 Sempre intento aprendre coses noves  
 💡 M’agrada resoldre problemes informàtics  
 
