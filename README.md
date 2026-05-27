@@ -61,7 +61,12 @@
 🧠 Sempre intento aprendre coses noves  
 💡 M’agrada resoldre problemes informàtics  
 
-#Links Projecctes!
+# Presentació final
+
+[Link](https://github.com/AleixKadado/Presentacio.md)
+
+
+# Links Projecctes!
 
 - [Projecte 2](https://github.com/AleixKadado/Projecte2)
 
