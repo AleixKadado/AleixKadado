@@ -66,7 +66,7 @@
 [Link](https://github.com/AleixKadado/Presentacio.md)
 
 
-# Links Projecctes!
+# Links Projectes!
 
 - [Projecte 2](https://github.com/AleixKadado/Projecte2)
 
