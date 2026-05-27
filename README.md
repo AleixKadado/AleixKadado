@@ -63,4 +63,20 @@
 🧠 Sempre intento aprendre coses noves  
 💡 M’agrada resoldre problemes informàtics  
 
+#Links Projecctes!
 
+- [Projecte 2](https://github.com/AleixKadado/Projecte2)
+
+- [Projecte 3](https://github.com/AleixKadado/Projecte-3-ever_pia)
+
+- [Projecte 4](https://github.com/AleixKadado/Projecte4)
+
+- [Projecte 5](https://github.com/classesSMX2n/projecte5-AleixKadado)
+
+- [Projecte 6](https://github.com/classesSMX2n/projecte6-AleixKadado)
+
+- [Projecte 7](https://github.com/classesSMX2n/projecte-7-AleixKadado)
+
+- [Projecte 8](https://github.com/classesSMX2n/projecte-8-AleixKadado)
+
+  
